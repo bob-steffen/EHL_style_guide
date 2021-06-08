@@ -293,7 +293,7 @@ for those who will read and reuse your code after you.
 
 
 
-### 3.1 C++
+### 4.1 C++
 
 Follow the guidelines as taught in the CS 142/235 courses @ BYU.
 
