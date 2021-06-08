@@ -163,6 +163,7 @@ Yes:
         return port
 
 No:
+    
     def connect_to_next_port(self, minimum):
         """Connects to the next available port.
 
